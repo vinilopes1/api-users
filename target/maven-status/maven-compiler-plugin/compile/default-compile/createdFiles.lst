@@ -1,0 +1,8 @@
+io/github/vinilopes1/users/rest/UserController.class
+io/github/vinilopes1/users/config/InternacionalizationConfig.class
+io/github/vinilopes1/users/model/entity/User$UserBuilder.class
+io/github/vinilopes1/users/rest/ApplicationControllerAdvice.class
+io/github/vinilopes1/users/rest/exceptions/APIErrors.class
+io/github/vinilopes1/users/model/repository/UserRepository.class
+io/github/vinilopes1/users/UsersApplication.class
+io/github/vinilopes1/users/model/entity/User.class

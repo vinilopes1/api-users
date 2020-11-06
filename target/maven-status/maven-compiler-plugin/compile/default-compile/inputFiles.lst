@@ -1,0 +1,7 @@
+/home/vinicius/Documentos/Estudos/Spring Boot/api-users/src/main/java/io/github/vinilopes1/users/model/entity/User.java
+/home/vinicius/Documentos/Estudos/Spring Boot/api-users/src/main/java/io/github/vinilopes1/users/UsersApplication.java
+/home/vinicius/Documentos/Estudos/Spring Boot/api-users/src/main/java/io/github/vinilopes1/users/rest/ApplicationControllerAdvice.java
+/home/vinicius/Documentos/Estudos/Spring Boot/api-users/src/main/java/io/github/vinilopes1/users/config/InternacionalizationConfig.java
+/home/vinicius/Documentos/Estudos/Spring Boot/api-users/src/main/java/io/github/vinilopes1/users/rest/exceptions/APIErrors.java
+/home/vinicius/Documentos/Estudos/Spring Boot/api-users/src/main/java/io/github/vinilopes1/users/model/repository/UserRepository.java
+/home/vinicius/Documentos/Estudos/Spring Boot/api-users/src/main/java/io/github/vinilopes1/users/rest/UserController.java
